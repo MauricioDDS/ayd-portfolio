@@ -6,4 +6,5 @@ heroImage: ../../assets/images/diagrama_de_secuencia.png
 category: Clase
 tags:
   - trabajo autónomo
+  - desarrollo
 ---
