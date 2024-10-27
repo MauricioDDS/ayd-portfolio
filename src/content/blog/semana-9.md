@@ -6,7 +6,6 @@ heroImage: ../../assets/images/casos_de_uso.png
 category: Clase
 tags:
   - trabajo autónomo
-  - clase
 ---
 
 ## ¿Qué son los Casos de Uso?
