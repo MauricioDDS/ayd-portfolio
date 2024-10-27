@@ -1,11 +1,11 @@
 ---
-title: 'Semana 9: Trabajo independente realizacion de especificación de casos de uso'
+title: 'Semana 9: Trabajo independente realización de especificación de casos de uso'
 description: ''
 pubDate: 2024-10-10T26:00:00.000Z
 heroImage: ../../assets/images/casos_de_uso.png
 category: Clase
 tags:
-  - trabajo autonomo
+  - trabajo autónomo
   - clase
 ---
 
