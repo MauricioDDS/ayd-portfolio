@@ -1,7 +1,7 @@
 ---
 title: 'Semana 10: Arquitectura de software'
 description: ''
-pubDate: 2024-10-27T26:00:00.000Z
+pubDate: 2024-10-24T26:00:00.000Z
 heroImage: ../../assets/images/arquitectura.png
 category: Clase
 tags:
