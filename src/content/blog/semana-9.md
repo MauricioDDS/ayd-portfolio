@@ -5,6 +5,7 @@ pubDate: 2024-10-10T26:00:00.000Z
 heroImage: ../../assets/images/casos_de_uso.png
 category: Clase
 tags:
+  - trabajo autonomo
   - clase
 ---
 
