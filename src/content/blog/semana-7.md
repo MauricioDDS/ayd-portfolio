@@ -5,7 +5,7 @@ pubDate: 2024-09-23T26:00:00.000Z
 heroImage: ../../assets/images/previo.jpg
 category: Clase
 tags:
-  - trabajo autonomo
+  - trabajo autónomo
   - previo
 ---
 

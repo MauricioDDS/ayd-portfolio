@@ -5,7 +5,7 @@ pubDate: 2024-09-16T22:00:00.000Z
 heroImage: ../../assets/images/avances.webp
 category: Clase
 tags:
-  - trabajo autonomo
+  - trabajo autónomo
   - desarrollo
 ---
 
