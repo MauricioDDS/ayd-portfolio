@@ -3,7 +3,7 @@ title: 'Semana 4: Requerimientos'
 description: ''
 pubDate: 2024-09-06T22:00:00.000Z
 heroImage: ../../assets/images/requisitosCliente.png
-category: Clase
+category: AyD
 tags:
   - clase
 ---

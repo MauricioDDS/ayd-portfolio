@@ -3,7 +3,7 @@ title: 'Semana 7: Primer previo'
 description: ''
 pubDate: 2024-09-23T26:00:00.000Z
 heroImage: ../../assets/images/previo.jpg
-category: Clase
+category: AyD
 tags:
   - trabajo autónomo
   - previo

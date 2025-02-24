@@ -3,7 +3,7 @@ title: 'Semana 2: Ciclo de vida del Software'
 description: ''
 pubDate: 2024-08-22T22:00:00.000Z
 heroImage: ../../assets/images/ciclo-de-vida-del-software-Portada.jpg
-category: Clase
+category: AyD
 tags:
   - clase
 ---

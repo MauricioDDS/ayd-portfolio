@@ -3,7 +3,7 @@ title: 'Semana 1: Sistemas de Informacion'
 description: ''
 pubDate: 2024-08-16T22:00:00.000Z
 heroImage: ../../assets/images/bg.jpg
-category: Clase
+category: AyD
 tags:
   - clase
 ---

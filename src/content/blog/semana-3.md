@@ -3,7 +3,7 @@ title: 'Semana 3: Reunión con el cliente'
 description: ''
 pubDate: 2024-08-29T22:00:00.000Z
 heroImage: ../../assets/images/reunion_cliente.jpg
-category: Clase
+category: AyD
 tags:
   - clase
 ---

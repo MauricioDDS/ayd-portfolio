@@ -3,7 +3,7 @@ title: 'Semana 11: Arquitectura de software'
 description: ''
 pubDate: 2024-10-24T26:00:00.000Z
 heroImage: ../../assets/images/arquitectura.png
-category: Clase
+category: AyD
 tags:
   - clase
 ---

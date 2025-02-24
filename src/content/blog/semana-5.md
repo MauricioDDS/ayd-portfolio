@@ -3,7 +3,7 @@ title: 'Semana 5: Casos de Uso'
 description: ''
 pubDate: 2024-09-09T22:00:00.000Z
 heroImage: ../../assets/images/ciclo-de-vida-del-software-Portada.jpg
-category: Clase
+category: AyD
 tags:
   - clase
 ---

@@ -3,7 +3,7 @@ title: 'Semana 9: Trabajo independente realización de especificación de casos 
 description: ''
 pubDate: 2024-10-10T26:00:00.000Z
 heroImage: ../../assets/images/casos_de_uso.png
-category: Clase
+category: AyD
 tags:
   - trabajo autónomo
   - desarrollo

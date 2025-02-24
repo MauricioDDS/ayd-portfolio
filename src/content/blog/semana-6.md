@@ -3,7 +3,7 @@ title: 'Semana 6: Avances del informe'
 description: ''
 pubDate: 2024-09-16T22:00:00.000Z
 heroImage: ../../assets/images/avances.webp
-category: Clase
+category: AyD
 tags:
   - trabajo autónomo
   - desarrollo
