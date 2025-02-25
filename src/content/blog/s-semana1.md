@@ -102,3 +102,7 @@ Esta interrogante nos lleva a reflexionar sobre el valor real que aportamos como
 
 - Conocimiento profundo del dominio del negocio
 - Habilidades de liderazgo y
+
+## Taller Grupal
+
+<iframe src="/docs/Ingeniería del Software, la crisis y su evolución.pdf" width="100%" height="600px" loading="lazy"></iframe>
